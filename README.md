@@ -36,3 +36,51 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Derived and verified Thevenin equivalent circuits for different networks.
 - Explored the relationship between Superposition and Thevenin theorems.
 - Solved example problems involving load analysis using Thevenin equivalents.
+
+## Day 2 (26/05/2026)
+
+### Session 1
+
+#### First-Order RC Circuits
+- Studied the fundamentals of first-order RC (Resistor-Capacitor) circuits.
+- Analyzed the transient response of first-order RC circuits.
+- Understood the concept of the time constant (\(\tau = RC\)) and its significance in circuit behavior.
+- Performed calculations related to capacitor voltage and current during charging and discharging processes.
+
+#### Rise Time and Fall Time Analysis
+- Studied the definitions and importance of rise time and fall time in first-order systems.
+- Calculated rise time and fall time for various RC circuit configurations.
+- Solved numerical problems based on transient response characteristics.
+- Analyzed the effect of resistance and capacitance values on circuit response speed.
+
+#### Practice Problems
+- Solved multiple analytical problems involving RC circuit transient analysis.
+- Applied theoretical concepts to determine voltages, currents, time constants, and switching responses.
+
+### Session 2
+
+#### NMOS Device Analysis
+- Analyzed the relationship between Drain Current (ID) and Gate-to-Source Voltage (VGS).
+- Identified different regions of operation: Cut-off, Triode, and Saturation.
+- Calculated important NMOS device parameters from characteristic equations.
+
+#### First-Order RC Circuit Simulation
+- Simulated first-order RC circuits under different operating conditions.
+- Observed circuit behavior for:
+  - **T >> τ** (Input period much greater than the time constant)
+  - **T << τ** (Input period much smaller than the time constant)
+- Compared charging and discharging waveforms under different excitation frequencies.
+- Studied the effect of the RC time constant on output waveform characteristics.
+
+#### Average Output Voltage Analysis
+- Calculated the average output voltage for RC circuits under periodic excitation.
+- Compared theoretical calculations with simulation results.
+
+#### AC Analysis and Frequency Response
+- Performed AC analysis of RC circuits.
+- Generated and interpreted Bode plots.
+- Studied:
+  - Magnitude Response (Gain Plot)
+  - Phase Response Plot
+- Analyzed cutoff frequency, gain variation, and phase shift characteristics.
+- Correlated frequency-domain behavior with circuit parameters.
