@@ -103,6 +103,22 @@ The below link is the official GitHub repository for the Summer Internship 2026 
     - A simple RC circuit
     - Different RC ckt configurations
       
-#### ADALM board Demo
-- There is a demo exp. done using the ADALM device and the SCOPY software in the Linux OS
-    
+#### ADALM Board Demo
+- A demonstration experiment was performed using the ADALM 2000 device and the [SCOPY](https://github.com/analogdevicesinc/scopy) software on the Linux operating system.
+
+## DAY-4 (28/05/2026)
+
+### Session 1
+
+#### Frequency Response
+- Analysis and Frequency resposne of linear circuits (high-pass/low-pass).
+- By Bode Plot the AC analysis of the filters were done.
+- Getting Started with the MEMS microphone.
+  
+### Session 2
+
+#### ADALM 2000 Exercises 
+- Concepts of the MEMS microphone.
+- Generation of Different Signals and their measurements using the [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and  [SCOPY](https://github.com/analogdevicesinc/scopy) software
+- A Simple Voltage Divider Circuit and the measurements using  [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and  [SCOPY](https://github.com/analogdevicesinc/scopy) software
+
