@@ -6,6 +6,8 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 
 ---
 
+## WEEK-1
+
 ## DAY-1 (25/05/2026)
 
 ### Session 1: Linux Familiarization and Circuit Theorems
@@ -126,9 +128,10 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 
 ### Session 1
 
+#### MEMS microphone modelling
 - Modelling of the [SparkFun MEMS Microphone](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf) using its datasheet and extracting the required parameters for circuit modelling.
 - Finding the Equivalent Thevenin's Circuit of the MEMS mic.
-- Modelling the MEMS microphone in the XSCHEM and measuing its various parameters:
+- Modelling the MEMS microphone in the XSCHEM for Simulation and measuing its various parameters:
     - Voltage gain in Db.
     - Phase vs. Frequency.
     - Absolute V (Vabs).
@@ -138,4 +141,38 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 ### Session 2
 - Designing a Equivalent Thevenin's Circuit.
 - Measuring the Parameters (Vth & Ith) using the[ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and  [SCOPY](https://github.com/analogdevicesinc/scopy) software
+
+---
+
+## WEEK-2
+
+## DAY-6 (01/06/2026)
+
+### Session 1
+
+#### MEMS Microphone and AFE Modeling
+- Studied the [SparkFun MEMS Microphone Datasheet](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf) and derived its Thevenin equivalent model (\(V_{th}\) and \(R_{th}\)) for 60 dB-SPL at 1 kHz.
+- Studied the [OPA344 Datasheet](https://www.ti.com/lit/ds/symlink/opa345.pdf) and modeled the amplifier as a VCVS using its DC gain.
+- Modeled the complete Analog Front-End (AFE) circuit in Xschem using the [SparkFun Breakout Board Schematic](https://cdn.sparkfun.com/assets/7/5/6/e/d/SparkFun_Analog_MEMS_Microphone_Breakout_SPH8878LR5H-1.pdf).
   
+#### AC and Transient Analysis of the AFE
+- Performed AC analysis of the AFE using the microphone model as an AC source.
+- Generated magnitude and phase plots and measured:
+  - Output gain at 1 kHz
+  - High-pass filter (-3 dB) frequency
+  - Low-pass filter (-3 dB) frequency
+    
+### Session 2
+- Measured the power supply gain (PSG) in dB.
+- Performed transient analysis at:
+  - 1 Hz
+  - 1 kHz
+  - 200 kHz
+- Measured peak input voltage, peak output voltage, and gain.
+
+#### RC and CR Circuit Analysis using ADALM2000
+- Performed practical analysis of RC and CR circuits using [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and [SCOPY](https://github.com/analogdevicesinc/scopy).
+- Observed charging/discharging characteristics, filtering effects, and phase shift under different operating conditions.
+- Compared practical observations with theoretical and simulation results.
+
+
