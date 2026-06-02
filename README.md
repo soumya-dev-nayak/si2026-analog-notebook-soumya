@@ -173,11 +173,23 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 #### RC and CR Circuit Analysis using ADALM2000
 - Performed practical analysis of RC and CR circuits using [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and [SCOPY](https://github.com/analogdevicesinc/scopy).
 - Observed charging/discharging characteristics, filtering effects, and phase shift under different operating conditions.
+- Done the AC anslysis and onserve the Bode plot of both the RC & CR filters
 - Compared practical observations with theoretical and simulation results.
 
 ## DAY-7 (02/06/2026)
 
 ### Session 1
+
+#### IC design flow
 - Got the detailed overview of the [IC Design Flow](https://github.com/silicon-vlsi/SI-2026-AnalogIC/blob/main/content/lec-intro-vlsi-0602-2026.pdf).
 - Got familier with different types of ICs and their working.
-- 
+
+#### Session 2
+
+#### OpAmp pole testing
+- Modeled the OpAmp as a single-pole amplfier (pole was found from the [datasheet](https://www.ti.com/lit/ds/symlink/opa345.pdf) ) and rerun all the above measurement of the MEMS mic.
+
+#### MEMS mic Breakout board testing
+- Use the Breakout board of the MEMS microphone and use different Frequencies i.e. 1KHz & 2KHz to measure the Output voltage and different Parameters using [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and [SCOPY](https://github.com/analogdevicesinc/scopy).
+- Done the FFT analysis of the input & output wave using the [SCOPY](https://github.com/analogdevicesinc/scopy) software.
+-  Observe the relation betwenn the frequency and distance with the Vpk - Vpk and Power.
