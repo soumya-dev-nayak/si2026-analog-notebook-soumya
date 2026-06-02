@@ -95,5 +95,14 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 
 ### Session 2
 
-
+#### Op-Amp ckt Analysis
+- Solved and Analyse different Op-Amp circuit configurations along with their gain and Impedance findings.
+  
+#### Open Circuit Time Constant 
+- Derieve and analyse the expression for the open circuit Time Constant for:
+    - A simple RC circuit
+    - Different RC ckt configurations
+      
+#### ADALM board Demo
+- There is a demo exp. done using the ADALM device and the SCOPY software in the Linux OS
     
