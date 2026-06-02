@@ -184,7 +184,7 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Got the detailed overview of the [IC Design Flow](https://github.com/silicon-vlsi/SI-2026-AnalogIC/blob/main/content/lec-intro-vlsi-0602-2026.pdf).
 - Got familier with different types of ICs and their working.
 
-#### Session 2
+### Session 2
 
 #### OpAmp pole testing
 - Modeled the OpAmp as a single-pole amplfier (pole was found from the [datasheet](https://www.ti.com/lit/ds/symlink/opa345.pdf) ) and rerun all the above measurement of the MEMS mic.
