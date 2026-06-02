@@ -84,3 +84,16 @@ The below link is the official GitHub repository for the Summer Internship 2026 
   - Phase Response Plot
 - Analyzed cutoff frequency, gain variation, and phase shift characteristics.
 - Correlated frequency-domain behavior with circuit parameters.
+
+## DAY-3 (27/05/2026)
+
+### Session 1
+
+#### LC & RC Circuit Analysis 
+-Analysis of different types of 1st order RC circuit configurations.
+-Analysis and the finding of Vout, gain, Wp etc. parameters of LC and RC, CR circuits and their different configurations.
+
+### Session 2
+
+
+    
