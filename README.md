@@ -122,3 +122,20 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Generation of Different Signals and their measurements using the [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and  [SCOPY](https://github.com/analogdevicesinc/scopy) software
 - A Simple Voltage Divider Circuit and the measurements using  [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and  [SCOPY](https://github.com/analogdevicesinc/scopy) software
 
+## DAY-5 (29/05/2026)
+
+### Session 1
+
+- Modelling of the [SparkFun MEMS Microphone](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf) using its datasheet and extracting the required parameters for circuit modelling.
+- Finding the Equivalent Thevenin's Circuit of the MEMS mic.
+- Modelling the MEMS microphone in the XSCHEM and measuing its various parameters:
+    - Voltage gain in Db.
+    - Phase vs. Frequency.
+    - Absolute V (Vabs).
+    - Pole and Zero frequency.
+    - Vin vs Vout.
+      
+### Session 2
+- Designing a Equivalent Thevenin's Circuit.
+- Measuring the Parameters (Vth & Ith) using the[ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and  [SCOPY](https://github.com/analogdevicesinc/scopy) software
+  
