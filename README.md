@@ -175,4 +175,9 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Observed charging/discharging characteristics, filtering effects, and phase shift under different operating conditions.
 - Compared practical observations with theoretical and simulation results.
 
+## DAY-7 (02/06/2026)
 
+### Session 1
+- Got the detailed overview of the [IC Design Flow](https://github.com/silicon-vlsi/SI-2026-AnalogIC/blob/main/content/lec-intro-vlsi-0602-2026.pdf).
+- Got familier with different types of ICs and their working.
+- 
