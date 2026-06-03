@@ -39,6 +39,10 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Explored the relationship between Superposition and Thevenin theorems.
 - Solved example problems involving load analysis using Thevenin equivalents.
 
+#### NMOS analysis
+- Plotted the Id vs Vgs using ngspice.
+- plotted Id vs Vds using thr ngspice
+
 ## Day 2 (26/05/2026)
 
 ### Session 1
