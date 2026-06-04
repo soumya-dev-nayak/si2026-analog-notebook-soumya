@@ -125,3 +125,102 @@
   <b>Figure 15:</b> Magnitude and Phase Characteristics of the First-Order CR High-Pass Filter
 </p>
 
+# MEMS Microphone Analog Frontend (AFE) Modelling
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS%20Mic%20AFE%20Schematic.png" width="500">
+</p>
+
+<p align="center">
+  <b>Figure 16:</b> MEMS Microphone and Analog Front-End (AFE) Schematic
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o2_Gain.png" width="500">
+</p>
+
+<p align="center">
+  <b>Figure 17:</b> Gain Response of the MEMS Microphone 
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o1_V_absolute.png" width="500">
+</p>
+
+<p align="center">
+  <b>Figure 18:</b> Absolute Output Voltage Response of the MEMS Microphone
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_mic_powerMsr_ckt.png" width="500">
+</p>
+
+<p align="center">
+  <b>Figure 19:</b> Power Measurement Circuit for the MEMS Microphone
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o3_ngspice_op_with_power_.png" width="400">
+</p>
+
+<p align="center">
+  <b>Figure 20:</b> ngspice Output Window Showing MEMS Microphone Power Measurements
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o5_vin_vout.png" width="700">
+</p>
+
+<p align="center">
+  <b>Figure 21:</b> Input and Output Voltage Plot of the MEMS Microphone
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_gain_at_different_freq.png" width="700">
+</p>
+
+<p align="center">
+  <b>Figure 22:</b> MEMS Microphone CKT Different Input Frequencies
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o6_ng_gain_Diff_Freq_.png" width="1200">
+</p>
+
+<p align="center">
+  <b>Figure 23:</b> ngspice Output Window Showing MEMS Microphone Gain at Different Input Frequencies
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_mic_Single_pole.png" width="800">
+</p>
+
+<p align="center">
+  <b>Figure 24:</b> MEMS Microphone Circuit with an Additional Single Pole
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o8_ngspoce_OP_1pole.png" width="500">
+</p>
+
+<p align="center">
+  <b>Figure 25:</b> ngspice Output Window Showing MEMS Microphone Response with an Additional Single Pole
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_o7_Gain%26Abs_plot_1pole.png" width="800">
+</p>
+
+<p align="center">
+  <b>Figure 26:</b> Gain and Absolute Output Voltage Response of the MEMS Microphone with an Additional Single Pole
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_mic_1pole_OPAmp_symbol.png" width="700">
+</p>
+
+<p align="center">
+  <b>Figure 27:</b> MEMS Microphone Circuit with an Additional Single Pole Using an Op-Amp Symbol
+</p>
+
