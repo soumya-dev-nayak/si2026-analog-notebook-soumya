@@ -229,5 +229,16 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Got to know the basics of different semiconductor devices.[Introduction to Semiconductors](https://github.com/silicon-vlsi/SI-2026-AnalogIC/blob/main/content/lec-SemiConductor-IC-Devices-0604-2026.pdf)
 - Studied their properties and the physics behind them.
 
-#### Getting Sta
+#### Getting Started with MOSFETS 
+- Got to know the Mosfet basics.
+- Got to know the different operating cindition of the MOSFETS along with their properties.
+
+### Session-2
+
+#### Semiconductor Simulation 
+- Studied the Crossection of the MOSFET with different conditions using [SILWIZ](https://app.siliwiz.com/).
+- Observed the Different Region of operation along with their simulation using the [SILWIZ](https://app.siliwiz.com/).
+- Completed the SILWIZ assignment.
+
+  
 
