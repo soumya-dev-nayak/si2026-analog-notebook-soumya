@@ -364,7 +364,17 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 #### Getting started with the 2-stage OpAMP
 - Completing the LVS of the differential amplifier using netgen.
 - Studied the basics of 2 stage OpAmp.
-- Studied the circuit configuaration and making of the 2-stage OpAmp and the need of this A
+- Studied the circuit configuaration and making of the 2-stage OpAmp and the need of this Amplifier.
+
+### Session-2
+
+#### Construction and Simulation of the 2 stage OpAmp
+- Constructed and Simulated the 2 stage OpAmp circuit using XSCHEM.
+- Calculated the parameters and found out:
+  - Gain, Gain Margin, Phase Margin, AC response through AC Analysis.
+  - Found out the Current at different branchs and different Node voltages through DC Sweep.
+  - Observed the Input and Output waveform through Transient Analysis.
+- Documented all the simulation output graphs and results. 
       
   
 
