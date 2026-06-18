@@ -197,3 +197,37 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Use the Breakout board of the MEMS microphone and use different Frequencies i.e. 1KHz & 2KHz to measure the Output voltage and different Parameters using [ADALM2000](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm2000.html) and [SCOPY](https://github.com/analogdevicesinc/scopy).
 - Done the FFT analysis of the input & output wave using the [SCOPY](https://github.com/analogdevicesinc/scopy) software.
 -  Observe the relation betwenn the frequency and distance with the Vpk - Vpk and Power.
+
+
+## DAY-8 (03/06/2026)
+
+### Session-1 
+
+#### IC Design Flow
+- Got the IC level Resistance modelling.
+- Got to know the physics behind the Resistance modelling in IC design process.
+- Got to know the different modelling of capacitance.
+
+### Session-2
+
+#### IC Design Flow
+- Continued with the IC design flow process.
+- Derieve the terms related with the Capacitance in a Capacitor.
+- Got to know the different MOS Capacitances and Capacitors in an IC.
+- Got the idea of how the modelling of capacitors are done in ICs.
+
+#### Microphone AFE 
+- Continued the work for the Microphone AFE using xschem-ngspice.
+- Completed the Given Assignments.
+
+
+## DAY-9 (04/06/2026)
+
+### Session-1 
+
+#### Getting Started with Semiconductor Basics
+- Got to know the basics of different semiconductor devices.[Introduction to Semiconductors](https://github.com/silicon-vlsi/SI-2026-AnalogIC/blob/main/content/lec-SemiConductor-IC-Devices-0604-2026.pdf)
+- Studied their properties and the physics behind them.
+
+#### Getting Sta
+
