@@ -313,5 +313,58 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Analysed them with BODE plot.
 - Getting started with the basic of small signal analysis of MOSFET.
 
+## DAY-14 (10/06/2026)
+
+### Session-1
+
+#### Analysis of Small Signal Model 
+- Got to know the Small signal model of both NMOS and PMOS.
+- Studied the differnt MOS-amplifier configurations along with their small signal model.
+- Simulated the circuits to get their gain, DC Sweep, and also performed the AC analysis to get the Gain and Phase margin.
+
+#### Getting Started with Current Mirror
+- Understand the basic and working of Different types of Current mirrors.
+- Calculaed the Input and Output waveforms of a simple NMOS current mirror.
+
+### Session-2
+
+#### Analysis and Simulation of Current Mirror
+- Derieve Different Parameters of Current Mirror to help in Modelling.
+- Done the Small Signal analysis of the Cascode Current Mirror.
+- Constructed the Schematic of the Current Mirror in XSCHEM.
+- Simulated the got the parameters like Gain, Phase and Gain Margin by AC analysis.
+- Observed the input and Output transient response of the Current mirror.
+
+
+## DAY-15 (11/06/2026)
+
+### Session-1
+
+#### Getting Started with Differential Amplifier
+- Got to know the basics of a Differential Ampllifier.
+- Studied the working and different configurations of a Differential Amplifier.
+- Simulated different configurations of Differential Amplifier and found out:
+  - Gain, Gain Margin, Phase Margin, AC response through AC Analysis.
+  - Found out the Current at different branchs and different Node voltages through DC Sweep.
+  - Observed the Input and Output waveform through Transient Analysis.
+
+### Session-2
+
+#### Getting Started with the Layout of the Differential Amplifier
+
+- Completed the Remaining Simulation of the Differential Amplifier.
+- Gettinig Started with the layout of the Differential amplifier.
+- Constructed the layout of the lower halve of the Differential amplifier using [MAGIC VLSI](https://github.com/RTimothyEdwards/magic.git).
+- Started with the LVS of the layout using [NETGEN](https://github.com/RTimothyEdwards/netgen.git)
+
+## DAY-16 (12/06/2026)
+
+### Session-1 
+
+#### Getting started with the 2-stage OpAMP
+- Completing the LVS of the differential amplifier using netgen.
+- Studied the basics of 2 stage OpAmp.
+- Studied the circuit configuaration and making of the 2-stage OpAmp and the need of this A
+      
   
 
