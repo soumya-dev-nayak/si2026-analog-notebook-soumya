@@ -301,7 +301,17 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 * Compared the performance of the various load configurations through simulation results.
 
 
+## DAY-13 (09/06/2026)
 
+### Session-1
+
+#### MOS capacitances 
+
+- Studied the differnt Capacitances buidup in diode(Depletion and Diffusion Capacitances).
+- Got to know the effects of differnt intrinsic(parasitic) capacitances in the function of an MOS amplifier.
+- Studied the effect of intrinsic capacitances on a MOS device in higher frequncies.
+- Analysed them with BODE plot.
+- Getting started with the basic of small signal analysis of MOSFET.
 
   
 
