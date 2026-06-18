@@ -240,5 +240,43 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 - Observed the Different Region of operation along with their simulation using the [SILWIZ](https://app.siliwiz.com/).
 - Completed the SILWIZ assignment.
 
+
+## DAY-10 (05/06/2026)
+
+### Session-1
+
+#### NMOS Parameter Extraction using Xschem
+
+* Extracted NMOS parameters using the Level-49 model in Xschem.
+* Determined the Threshold Voltage (Vt) under different body-bias conditions.
+* Extracted the Body Effect Coefficient (γ), Channel Length Modulation parameter (λ), and μnCox (K').
+* Verified the extracted parameters using NGSpice simulations.
+
+### Session-2
+
+#### Level-1 vs Level-49 NMOS Simulation
+
+* Simulated NMOS transistors using Level-1 and Level-49 models in NGSpice.
+* Compared the transfer (Id-Vgs) and output (Id-Vds) characteristics of both models.
+* Analyzed differences in threshold voltage and channel length modulation effects.
+* Observed the improved accuracy of the Level-49 model compared to the Level-1 model.
+
+
+## DAY-11 (06/06/2026)
+
+### Session-1
+
+#### NMOS Parameter Extraction and Device Concepts
+
+* Continued the parameter extraction of the NMOS transistor using Xschem and NGSpice.
+* Verified the extracted parameters through additional simulations and analysis.
+* Studied important MOSFET device concepts related to threshold voltage, body effect, and channel length modulation.
+* Analyzed the impact of different device parameters on transistor characteristics.
+* Gained a deeper understanding of NMOS operation and modeling concepts.
+
+
+
+
+
   
 
