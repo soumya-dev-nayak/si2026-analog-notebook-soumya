@@ -274,6 +274,31 @@ The below link is the official GitHub repository for the Summer Internship 2026 
 * Analyzed the impact of different device parameters on transistor characteristics.
 * Gained a deeper understanding of NMOS operation and modeling concepts.
 
+---
+
+## WEEK-3
+
+## DAY-12 (08/06/2026)
+
+### Session-1
+
+#### MOSFET Fundamentals and Analysis
+
+* Studied different types of MOSFETs and their classifications.
+* Learned the IC layout configurations and circuit symbols of NMOS and PMOS transistors.
+* Derived the MOSFET current equations for different regions of operation.
+* Analyzed the Id-Vgs and Id-Vds characteristics for both NMOS and PMOS devices.
+* Solved various MOSFET-based circuit problems to strengthen device-level understanding.
+
+### Session-2
+
+#### NMOS Configuration Simulations
+
+* Simulated different NMOS configurations using resistive, PMOS, and diode-connected loads.
+* Generated and analyzed Id-Vgs and Id-Vds characteristics for the different configurations.
+* Performed AC analysis and studied the gain and phase response of the circuits.
+* Performed Transient analysis and studied the input and output Waveforms. 
+* Compared the performance of the various load configurations through simulation results.
 
 
 
