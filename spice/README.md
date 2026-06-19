@@ -469,6 +469,24 @@ print Vt
 
 .END
 ```
+### Sample Output
+
+```text
+Circuit: Id-vs-Vgs for and NMOS in Saturation region
+
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Using SPARSE 1.3 as Direct Linear Solver
+
+No. of Data Rows : 15003
+
+Warning: Missing charsets in String to FontSet conversion
+
+d_at_1v             =  1.746425e-02
+ucox = 1.220000e-04
+
+rt_id_at_1          =  2.595187e-02
+vt = 5.140003e-01
 
 
 
