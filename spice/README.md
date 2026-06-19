@@ -375,7 +375,45 @@ ngspice 56 ->
 AC ANALYSIS
 f3db = 3.197967e+06
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/CR_hpf_op1_T_more_5tau.png" width="600">
+</p>
 
+<p align="center">
+  <em>Figure: RC High-Pass Filter Transient Response for T > 5τ</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/CR_hpf_op2_T_less_tau.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: RC High-Pass Filter Transient Response for T < τ</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/CR_hpf_op3_T_less_tau_upto_200n.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: RC High-Pass Filter Transient Response for T < τ (200 ns Simulation)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/CR_hpf_op4_ac_gain.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: RC High-Pass Filter AC Magnitude Response (Gain Plot)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/CR_hpf_op5_ac_phase.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: RC High-Pass Filter AC Phase Response</em>
+</p>
 
 
 
