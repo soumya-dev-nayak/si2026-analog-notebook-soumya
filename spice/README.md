@@ -632,7 +632,7 @@ gamma_extracted ≈ 0.55
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/NMOS_lvl-49_lvl-1_in_one_graph.png" width="500">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/NMOS_lvl-49_lvl-1_in_one_graph.png" width="620">
 </p>
 
 <p align="center">
