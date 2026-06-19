@@ -487,6 +487,15 @@ ucox = 1.220000e-04
 
 rt_id_at_1          =  2.595187e-02
 vt = 5.140003e-01
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/spice/pics/NMOS_lvl-1_op1_Id_v_Vgs.png" width="1000">
+</p>
 
+<p align="center">
+<p align="center">
+  <em>Figure: NMOS Level-1 Model Id–VGS Characteristics at different Vsb</em><br>
+  <em>Showing both the original and the √Id linearized version</em>
+</p>
 
 
