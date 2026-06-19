@@ -350,6 +350,7 @@ print Vavg
 ### Sample Output
 
 ```text
+TRANSIENT ANALYSIS
 vmax                =  4.975083e+00 at=  1.000000e-11
 vmin                = -4.974857e+00 at=  3.002000e-08
 
@@ -370,4 +371,11 @@ vavg = 9.999544e-02
 
 ngspice 56 ->
 ```
+```text
+AC ANALYSIS
+f3db = 3.197967e+06
+```
+
+
+
 
