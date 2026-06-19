@@ -196,4 +196,178 @@ vavg    = 2.502497e+00
   <em>Figure: RC Low-Pass Filter AC Phase Response</em>
 </p>
 
+# NGSpice CR High-Pass Filter Characterization 
+
+## Circuit Definition
+
+```spice
+.title RC HIGH PASS FILTER CHARACTERISATION AND PARAMETER FINDING dt: 27/05/26
+
+.global vdd gnd
+.temp 27
+
+*--------------------------------------------------------------------
+* CIRCUIT
+*--------------------------------------------------------------------
+
+R1      t1      gnd     1k
+
+*C1     in      out     1p
+C1      in      out     50p
+
+Vcm1    out     t1      dc 0
+
+*--------------------------------------------------------------------
+* INPUT SOURCES
+*--------------------------------------------------------------------
+
+* Normal Pulse
+Vin     in      gnd     PULSE(0 5 0 10p 10p 10n 20n)
+
+* Duty Cycle = 25%
+*Vin    in      gnd     PULSE(0 5 0 10p 10p 5n 20n)
+
+* AC Input
+*Vin    in      gnd     AC 1
+
+*--------------------------------------------------------------------
+* ANALYSIS SELECTION
+*--------------------------------------------------------------------
+
+*======================
+* TRANSIENT ANALYSIS
+*======================
+
+.tran 1p 600n
+
+* Fast RC (τ << pulse width)
+*.tran 1p 50n
+
+* Long Simulation
+*.tran 1p 1u
+
+
+*======================
+* AC ANALYSIS
+*======================
+
+*.ac dec 100 10 10G
+
+*--------------------------------------------------------------------
+* CONTROL BLOCK
+*--------------------------------------------------------------------
+
+.control
+
+run
+
+set color0 = white
+
+*--------------------------------------------------------------------
+* TRANSIENT RESULTS
+*--------------------------------------------------------------------
+
+setplot tran1
+
+* Input and Output Waveforms
+plot v(in) v(out)
+
+*----------------------
+* Maximum and Minimum
+*----------------------
+
+meas tran Vmax MAX v(out)
+meas tran Vmin MIN v(out)
+
+*----------------------
+* Effective Time Constant
+*----------------------
+
+let vtau = (1 - 0.632)*Vmax
+
+meas tran tau_eff WHEN v(out)=vtau FALL=1
+
+*----------------------
+* Rise Time
+*----------------------
+
+let v10 = Vmin + 0.1*(Vmax - Vmin)
+let v90 = Vmin + 0.9*(Vmax - Vmin)
+
+meas tran t10r WHEN v(out)=v10 RISE=2
+meas tran t90r WHEN v(out)=v90 RISE=2
+
+let trise = t90r - t10r
+
+*----------------------
+* Fall Time
+*----------------------
+
+meas tran t90f WHEN v(out)=v90 FALL=2
+meas tran t10f WHEN v(out)=v10 FALL=2
+
+let tfall = t10f - t90f
+
+*----------------------
+* Average Voltage
+*----------------------
+
+meas tran Vavg AVG v(out)
+
+*----------------------
+* Print Parameters
+*----------------------
+
+print tau_eff
+print trise
+print tfall
+print Vavg
+
+*--------------------------------------------------------------------
+* AC RESULTS
+*--------------------------------------------------------------------
+
+* Uncomment ONLY when AC analysis is enabled
+*
+*setplot ac1
+*
+** Gain Response
+*plot vdb(out)
+*
+** Phase Response
+*plot vp(out)
+*
+** -3 dB Cutoff Frequency
+*meas ac f3db WHEN vdb(out)=-3
+*
+*print f3db
+
+.endc
+
+.end
+```
+
+### Sample Output
+
+```text
+vmax                =  4.975083e+00 at=  1.000000e-11
+vmin                = -4.974857e+00 at=  3.002000e-08
+
+tau_eff             =  1.009672e-09
+
+t10r                =  3.024315e-08
+t90r                =  2.000799e-08
+
+t90f                =  2.023309e-08
+t10f                =  3.001799e-08
+
+vavg                =  9.999544e-02 from=  0.000000e+00 to=  5.000000e-08
+
+tau_eff = 1.009672e-09
+trise = -1.02352e-08
+tfall = 9.784900e-09
+vavg = 9.999544e-02
+
+ngspice 56 ->
+```
 
