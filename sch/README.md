@@ -366,3 +366,57 @@
   <em>Figure: NMOS–PMOS Load Amplifier Voltage Transfer Characteristic</em><br>
   <em>Plot of Vout versus Vin highlighting the amplifier operating region and inversion behavior</em>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op1_DC_Sweep_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier DC Sweep Testbench</em><br>
+  <em>Schematic used for DC Transfer Characteristic, Gain, and Operating Point Analysis</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op2_DC_Sweep_.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier DC Transfer Characteristics</em><br>
+  <em>Output Voltage (Vout) variation with Input Voltage (Vin)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op3_DC_Sweep_DIfferent_Graph_comp.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier DC Sweep Comparison</em><br>
+  <em>Comparison of Output Voltage, Gain, and Device Operating Regions obtained from DC Sweep Analysis</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op4_AC_Analysis_CKT.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier AC Analysis Testbench</em><br>
+  <em>Schematic used for Gain, Phase, Bandwidth, and Unity Gain Frequency measurements</em>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op5_AC_analysis_Gain(dB).png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier AC Gain Response</em><br>
+  <em>Magnitude plot showing the amplifier gain and frequency response</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op6_AC_analysis_Phase(rad).png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier AC Phase Response</em><br>
+  <em>Phase variation with frequency obtained from AC analysis</em>
+</p>
+
