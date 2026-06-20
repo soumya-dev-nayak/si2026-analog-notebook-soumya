@@ -217,10 +217,152 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_mic_1pole_OPAmp_symbol.png" width="700">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/MEMS_mic_1pole_OPAmp_symbol.png" width="1100">
 </p>
 
 <p align="center">
   <b>Figure 27:</b> MEMS Microphone Circuit with an Additional Single Pole Using an Op-Amp Symbol
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op1_DC_Sweep_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Resistive Load Amplifier Testbench for DC Sweep Analysis</em><br>
+  <em>Schematic used to obtain the DC Transfer Characteristics</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op2_DC_Sweep_Gain.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier DC Transfer Characteristics</em><br>
+  <em>Gain obtained from the slope of the Vout–Vin curve in the transition region</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op3_DC_sweep_Vout.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier DC Sweep Output Characteristics</em><br>
+  <em>Variation of Output Voltage (Vout) with Input Voltage (Vin)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op4_Transient_Analysis.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier Transient Response CKT </em><br>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op5_Transient_Vout.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier Output Waveform</em><br>
+  <em>Transient response showing the amplified and inverted output voltage (Vout)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op6_AC_Gain_phase_Ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier AC Analysis Testbench</em><br>
+  <em>Schematic used for Gain, Phase, Bandwidth, and Unity Gain Frequency measurements</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op7_Gain(dB).png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier AC Gain Response</em><br>
+  <em>Magnitude plot showing midband gain and the frequency response of the amplifier</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resisitive_load_amp_op8_Phase(rad).png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Resistive Load Amplifier AC Phase Response</em><br>
+  <em>Phase variation with frequency obtained from AC analysis</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op1_DC_Sweep_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier DC Sweep Testbench</em><br>
+  <em>Schematic used for DC Transfer Characteristic and Gain Analysis</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op2_DC_Sweep_Vout.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier DC Transfer Characteristics</em><br>
+  <em>Output Voltage (Vout) variation with Input Voltage (Vin)</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op3_DC_Sweep_Gain.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier DC Gain Characteristics</em><br>
+  <em>Voltage gain obtained from the slope of the DC transfer curve in the transition region</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op4_DC_Sweep_Current.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier DC Current Characteristics</em><br>
+  <em>Drain Current variation with Input Voltage during DC Sweep Analysis</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op5_AC_Gain_Phase_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier AC Analysis Testbench</em><br>
+  <em>Schematic used for Gain, Phase, Bandwidth, and Unity Gain Frequency measurements</em>
+</p>  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op6_AC_Gain(DB).png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier AC Gain Response</em><br>
+  <em>Magnitude plot showing the amplifier gain and frequency response</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op7_Phase_plot.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier AC Phase Response</em><br>
+  <em>Phase variation with frequency obtained from AC analysis</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_PMOS_Load_amp_op8_(Vout)by(Vin)_plot.png" width="550">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS–PMOS Load Amplifier Voltage Transfer Characteristic</em><br>
+  <em>Plot of Vout versus Vin highlighting the amplifier operating region and inversion behavior</em>
+</p>
