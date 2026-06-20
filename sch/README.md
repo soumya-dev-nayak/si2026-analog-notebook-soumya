@@ -225,12 +225,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_ResLoad_amp_op1_DC_Sweep_ckt.png" width="1100">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Resistive_load_amp_op1_DC_Sweep_ckt.png" width="1100">
 </p>
 
 <p align="center">
-  <em>Figure: PMOS Resistive Load Amplifier Testbench for DC Sweep Analysis</em><br>
-  <em>Schematic used to obtain the DC Transfer Characteristics</em>
+  <em>Figure: NMOS Resistive Load Amplifier DC Sweep Testbench</em><br>
+  <em>Schematic used for DC Transfer Characteristic, Gain, and Operating Point Analysis</em>
 </p>
 
 <p align="center">
