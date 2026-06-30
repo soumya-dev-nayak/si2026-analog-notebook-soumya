@@ -510,3 +510,58 @@
   <em>Transient comparison of the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>) in response to a step current input.</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Cascode_2_mirror_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Cascode Current Mirror (L = 2 µm) Circuit</em><br>
+  <em>Schematic of the NMOS cascode current mirror configured for performance analysis with a transistor channel length of 2 µm.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/NMOS_Cascode_Current_Mirror_op2_Iout_vs_Iref.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: NMOS Cascode Current Mirror – I<sub>OUT</sub> vs. I<sub>REF</sub></em><br>
+  <em>DC transfer characteristic showing the relationship between the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>) for the NMOS cascode current mirror.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_CurrentMirror(basic)_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Basic PMOS Current Mirror Circuit</em><br>
+  <em>Schematic of the basic PMOS current mirror used for evaluating current mirroring characteristics and biasing performance.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_CurrentMirror(basic)_op2_Iref_vs_Iout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic PMOS Current Mirror – I<sub>REF</sub> vs. I<sub>OUT</sub></em><br>
+  <em>DC transfer characteristic illustrating the relationship between the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>) of the PMOS current mirror.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_Cascode_CurrentMirror_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Cascode Current Mirror Circuit</em><br>
+  <em>Schematic of the PMOS cascode current mirror used to achieve improved output resistance and enhanced current mirroring accuracy.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/PMOS_Cascode_CurrentMirror_op2_Iout_vs_Iref.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: PMOS Cascode Current Mirror – I<sub>OUT</sub> vs. I<sub>REF</sub></em><br>
+  <em>DC transfer characteristic showing the relationship between the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>) for the PMOS cascode current mirror.</em>
+</p>
+
+
