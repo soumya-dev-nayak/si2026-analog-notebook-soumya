@@ -210,19 +210,25 @@
 
 ## 🎥 MEMS Microphone Test Demonstration (ADALM Lab)
 
+---
+
 <p align="center">
-  <strong>MEMS Microphone Signal Capture & Response Analysis</strong>
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/Screenshot%202026-07-01%20013851.png" width="750">
+</p>
+
+<p align="center">
+  <strong>MEMS Microphone Signal Capture & Acoustic Response Analysis</strong>
 </p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_MEMS_mic_test_demonstration.mp4">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Video-Click%20to%20Play-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/▶%20WATCH%20DEMONSTRATION-Open%20Video%20Player-blue?style=for-the-badge&logo=video">
   </a>
 </p>
 
 <p align="center">
   <em>
-    Demonstration of MEMS microphone response using ADALM setup.
-    Captures real-time acoustic signal variations and system response behavior.
+    MEMS microphone characterization performed using ADALM instrumentation setup.<br>
+    The system captures real-time acoustic variations and demonstrates analog signal response behavior under dynamic input conditions.
   </em>
 </p>
