@@ -1,6 +1,6 @@
 # ADALM 2000 Labs
 
-
+## Linux Familiarization
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/Linux%20Familirazation.png" width="800">
 </p>
@@ -11,6 +11,7 @@
 </p>
 
 
+## Lab 01 – Voltage Check
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_01_voltage_ckeck_ckt.jpg" width="1100">
 </p>
@@ -21,6 +22,7 @@
 </p>
 
 
+## Lab 02 – Voltage Divider
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_02_voltage_divider_ckt.jpg" width="800">
 </p>
@@ -31,6 +33,7 @@
 </p>
 
 
+## Lab 03 – Thevenin Equivalent
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_03_thevenin_ckt.jpg" width="1100">
 </p>
@@ -41,36 +44,40 @@
 </p>
 
 
+## Lab 04 – Sine Wave Generator
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_06_sine_wave_signal_gen.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: ADALM Lab 06 – Sine Wave Signal Generator</em><br>
+  <em>Figure: ADALM Lab 04 – Sine Wave Signal Generator</em><br>
   <em>Demonstration of sine wave generation using a signal generator, used for analyzing basic AC waveforms and frequency-domain behavior in analog experiments.</em>
 </p>
 
 
+## Lab 05 – Square Wave Generator
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_07_square_wave_signal_gen.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: ADALM Lab 07 – Square Wave Signal Generator</em><br>
+  <em>Figure: ADALM Lab 05 – Square Wave Signal Generator</em><br>
   <em>Square wave generation using a function/signal generator, used to study digital-like switching waveforms and time-domain response in analog circuits.</em>
 </p>
 
 
+## Lab 06 – Noise Measurement (1 kHz Sine)
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/Measure2_sine1K_noise.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: Sine Wave Measurement at 1 kHz with Noise</em><br>
+  <em>Figure: Noise Measurement at 1 kHz</em><br>
   <em>Measured 1 kHz sine waveform showing the presence of noise components superimposed on the signal, used for studying signal integrity and noise effects in analog measurement systems.</em>
 </p>
 
 
+## Lab 07 – 1 kHz Waveform Comparison
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/Sine_Square_1k.png" width="800">
 </p>
@@ -81,6 +88,7 @@
 </p>
 
 
+## Lab 08 – FFT: Sine vs Square
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/FFT1_Sine_Square1.png" width="800">
 </p>
@@ -91,6 +99,7 @@
 </p>
 
 
+## Lab 09 – FFT of Sine Wave
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_08_FFT_of_sine_wave.png" width="800">
 </p>
@@ -101,6 +110,7 @@
 </p>
 
 
+## Lab 10 – Detailed FFT of Sine Wave
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_09_FFT_of_sine_wave(detailed).png" width="800">
 </p>
@@ -111,81 +121,89 @@
 </p>
 
 
+## Lab 11 – CR/RC Setup Circuit
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_05_CR_RC_setup_ckt.jpg" width="1100">
 </p>
 
 <p align="center">
-  <em>Figure: ADALM Lab 05 – CR/RC Setup Circuit</em><br>
+  <em>Figure: CR/RC Setup Circuit</em><br>
   <em>RC and CR network configuration used to study time-domain response, charging/discharging behavior, and basic filtering characteristics in analog signal processing.</em>
 </p>
 
 
+## Lab 12 – RC Circuit
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_04_RC_ckt.jpg" width="1100">
 </p>
 
 <p align="center">
-  <em>Figure: ADALM Lab 04 – RC Circuit</em><br>
+  <em>Figure: RC Circuit</em><br>
   <em>Basic RC network used to observe charging and discharging characteristics of a capacitor through a resistor, demonstrating time constant behavior in first-order circuits.</em>
 </p>
 
 
+## Lab 13 – RC Response (T > τ)
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_RC_op1_Tperiod_more_Tau.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: RC Response – Tperiod > τ</em><br>
-  <em>Time-domain RC circuit response where the input period is greater than the time constant (τ), allowing the capacitor to fully charge and discharge between cycles.</em>
+  <em>Figure: RC Response – T > τ</em><br>
+  <em>Time-domain RC circuit response where the input period is greater than the time constant (τ), allowing full charge and discharge cycles.</em>
 </p>
 
 
+## Lab 14 – RC Response (T = τ)
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_RC_op2_Tperiod_equal_Tau.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: RC Response – Tperiod = τ</em><br>
-  <em>Time-domain RC circuit response where the input period matches the time constant (τ), showing partial charge and discharge behavior without reaching full steady state.</em>
+  <em>Figure: RC Response – T = τ</em><br>
+  <em>Time-domain RC circuit response where the input period matches the time constant (τ), showing partial charge and discharge behavior.</em>
 </p>
 
 
+## Lab 15 – RC Response (T < τ)
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_RC_op3_Tperiod_less_Tau.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: RC Response – Tperiod < τ</em><br>
-  <em>Time-domain RC circuit response where the input period is less than the time constant (τ), resulting in incomplete charge and discharge cycles.</em>
+  <em>Figure: RC Response – T < τ</em><br>
+  <em>Time-domain RC circuit response where the input period is less than the time constant (τ), leading to incomplete charging cycles.</em>
 </p>
 
 
+## Lab 16 – RC Bode & Phase
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_RC_op4_Bode_%26_Phase_plot.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: RC Circuit – Bode Magnitude and Phase Plot</em><br>
-  <em>Frequency-domain response of an RC network showing gain roll-off and phase shift as frequency increases, illustrating the low-pass filter characteristics of the circuit.</em>
+  <em>Figure: RC Bode & Phase Plot</em><br>
+  <em>Frequency-domain response of an RC network showing gain roll-off and phase shift.</em>
 </p>
 
 
+## Lab 17 – CR Response (T > τ)
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_CR_op1_Tperiod_more_Tau.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: CR Circuit Response – Tperiod > τ</em><br>
-  <em>Time-domain response of a CR network where the input period is greater than the time constant (τ), allowing the circuit to fully respond between cycles and clearly showing transient behavior.</em>
+  <em>Figure: CR Response – T > τ</em><br>
+  <em>Time-domain response of CR network showing full transient behavior between cycles.</em>
 </p>
 
 
+## Lab 18 – CR Response (T < τ)
 <p align="center">
   <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_CR_op2_Tperiod_less_Tau.png" width="800">
 </p>
 
 <p align="center">
-  <em>Figure: CR Circuit Response – Tperiod < τ</em><br>
-  <em>Time-domain response of a CR network where the input period is less than the time constant (τ), resulting in incomplete transient response and overlapping charge/discharge behavior.</em>
+  <em>Figure: CR Response – T < τ</em><br>
+  <em>Time-domain response of CR network with incomplete transient behavior due to short input period.</em>
 </p>
