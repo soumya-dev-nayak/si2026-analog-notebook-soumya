@@ -1,0 +1,15 @@
+* SPICE3 file created from Differential_Amplifier.ext - technology: sky130A
+
+.option scale=10m
+
+X0 a_950_0# a_n50_n200# GND GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=50n ps=0.7m w=500 l=200
+X1 a_1750_0# a_n50_n200# GND GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=50n ps=0.7m w=500 l=200
+X2 GND a_n50_n200# a_150_0# GND sky130_fd_pr__nfet_01v8 ad=100n pd=1.4m as=50n ps=0.7m w=500 l=200
+X3 GND a_n50_n200# a_150_0# GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=50n ps=0.7m w=500 l=200
+X4 GND a_n50_n200# a_950_0# GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=50n ps=0.7m w=500 l=200
+X5 a_150_0# a_n50_n200# GND GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=100n ps=1.4m w=500 l=200
+X6 a_150_0# a_n50_n200# GND GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=50n ps=0.7m w=500 l=200
+X7 GND a_n50_n200# a_1750_0# GND sky130_fd_pr__nfet_01v8 ad=50n pd=0.7m as=50n ps=0.7m w=500 l=200
+C0 a_150_0# a_n50_n200# 2.00578f
+C1 a_150_0# GND 6.59658f **FLOATING
+C2 a_n50_n200# GND 19.004f **FLOATING
