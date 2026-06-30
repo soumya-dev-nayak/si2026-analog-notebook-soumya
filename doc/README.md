@@ -175,3 +175,21 @@ When opening Xschem, using `Help -> Keys` a pop-up windows comes up with many us
   <em>Figure: MEMS Microphone Teardown</em><br>
   <em>Annotated teardown of a MEMS microphone illustrating its internal components, including the MEMS sensing element, ASIC, acoustic port, package structure, and electrical interconnections.</em>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/doc/pics/OP415_TI_datasheet.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: OP415 Operational Amplifier Datasheet Overview</em><br>
+  <em>Datasheet excerpt highlighting the key electrical specifications, functional features, and package information of the OP415 operational amplifier used as a design reference in the analog front-end.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/doc/pics/OP415_TI_datasheet.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: OP415 Operational Amplifier Datasheet</em><br>
+  <em>Datasheet excerpt of the OP415 operational amplifier highlighting its electrical characteristics, functional description, pin configuration, and key performance specifications used as a reference during the analog front-end design.</em>
+</p>
