@@ -2,7 +2,7 @@
 
 The below link is the official GitHub repository for the Summer Internship 2026 – Analog IC Design.
 
-- [SI-2026 Analog IC Design GitHub Repo](https://github.com/silicon-vlsi/si2026-analog-notebook)
+- [SI-2026 Analog IC Design GitHub Repo](https://github.com/silicon-vlsi/SI-2026-AnalogIC)
 
 ---
 
