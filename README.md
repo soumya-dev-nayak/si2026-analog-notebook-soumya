@@ -1,4 +1,4 @@
-# Notebook: SI 2026 Analog IC Design
+# Notebook Diary: SI 2026 Analog IC Design
 
 The below link is the official GitHub repository for the Summer Internship 2026 – Analog IC Design.
 
