@@ -565,3 +565,83 @@
 </p>
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_op1_parameter_Extraction_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier Parameter Extraction Circuit</em><br>
+  <em>Schematic of the differential amplifier configured for extracting key small-signal and DC operating parameters through simulation.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_DC_sweep_op2_I_at_node1.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier DC Sweep – Current at Node 1</em><br>
+  <em>DC sweep result showing the variation of current measured at Node&nbsp;1 as the input bias condition is swept.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_DC_Sweep_op3_I_at_node2.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier DC Sweep – Current at Node 2</em><br>
+  <em>DC sweep result illustrating the variation of current measured at Node&nbsp;2 as the input bias condition is varied.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_AMplifier_DC_Sweep_op4_different_I_comp.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier DC Sweep – Differential Current Comparison</em><br>
+  <em>Comparison of the currents at the two differential output nodes obtained from the DC sweep analysis, illustrating the current steering behavior of the differential pair.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_DC_Sweep_op5_different_node_voltages.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier DC Sweep – Differential Node Voltages</em><br>
+  <em>DC sweep result showing the variation of the voltages at the two differential output nodes as the input bias condition is varied.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_AC_analysis_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier AC Analysis Circuit</em><br>
+  <em>Schematic of the differential amplifier configured for small-signal AC analysis to evaluate its frequency response and gain characteristics.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_AC_Analysis_op2_Gain_and_Phase_plot.png" width="900">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier AC Analysis – Gain and Phase Response</em><br>
+  <em>Frequency response of the differential amplifier showing both the small-signal voltage gain and phase variation obtained from AC analysis.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_AC_transient_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier Transient Analysis Circuit</em><br>
+  <em>Schematic of the differential amplifier configured for transient analysis to evaluate its time-domain response to differential input signals.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Differential_Amplifier_AC_transient_op2_diff_Input_vs_output_waveform.png" width="900">
+</p>
+
+<p align="center">
+  <em>Figure: Differential Amplifier Transient Analysis – Differential Input and Output Waveforms</em><br>
+  <em>Transient response showing the differential input signal and the corresponding amplified output waveform of the differential amplifier.</em>
+</p>
