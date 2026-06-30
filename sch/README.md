@@ -645,3 +645,116 @@
   <em>Figure: Differential Amplifier Transient Analysis – Differential Input and Output Waveforms</em><br>
   <em>Transient response showing the differential input signal and the corresponding amplified output waveform of the differential amplifier.</em>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAMP_DC_Sweep_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier DC Sweep Circuit</em><br>
+  <em>Schematic of the two-stage differential operational amplifier configured for DC sweep analysis to evaluate its large-signal transfer characteristics.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAMP_DC_Sweep_op2_Vout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier DC Sweep – Output Voltage</em><br>
+  <em>DC sweep result showing the variation of the output voltage (V<sub>OUT</sub>) with the applied differential input signal.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAMP_DC_Sweep_op3_branch_currents.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier DC Sweep – Branch Currents</em><br>
+  <em>DC sweep analysis showing the variation of branch currents within the two-stage differential operational amplifier as the input signal is swept.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAMP_DC_Sweep_op4_node_voltages.png" width="600">
+</p>
+
+<p align="center">
+  
+  <em>Figure: Two-Stage Differential Operational Amplifier DC Sweep – Node Voltages</em><br>
+  <em>DC sweep result illustrating the variation of the internal node voltages of the two-stage differential operational amplifier with the applied input sweep.</em>
+</p>
+
+## Simulation Output: Two-Stage Differential Operational Amplifier
+
+**Simulation File:** `Two_Stage_Differential_OpAMP.spice`  
+**Creation Date:** Sat May 17 07:43:10 UTC 2025
+
+### Simulation Information
+
+- **Compatibility Mode:** `hs a`
+- **Circuit Schematic:**
+  ```
+  /home/soumyadev158/analog_designs/xschem_designs/
+  mos_amplifiers/two_stage_differential_opamp.sch
+  ```
+
+### Simulation Conditions
+
+- **Temperature (TEMP):** 27 °C
+- **Nominal Temperature (TNOM):** 27 °C
+- **Linear Solver:** SPARSE 1.3 (Direct Linear Solver)
+- **Reference Value:** 0.00000e+00
+- **Number of Data Rows:** 181
+
+### Model Scaling
+
+The simulation uses the following scaling option:
+
+- `SCALE = 1e-06` (applied to all instance and model parameters)
+
+### Extracted Node Voltages
+
+| Parameter | Value |
+|-----------|-------:|
+| Tail Voltage (`Vtail`) | **0.2895935 V** |
+| `VM1` (Final Value) | **1.018364 V** |
+| `VOUT` (Final Value) | **0.9382435 V** |
+| `VM2` (Final Value) | **0.8600490 V** |
+| `VM3` (Final Value) | **0.8364542 V** |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAMP_AC_Analysis_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier AC Analysis Circuit</em><br>
+  <em>Schematic of the two-stage differential operational amplifier configured for small-signal AC analysis to evaluate its gain, bandwidth, and frequency response.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAMP_AC_Analysis_op2_gain_%26_Phase.png" width="900">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier AC Analysis – Gain and Phase Response</em><br>
+  <em>Frequency response showing the voltage gain and phase characteristics of the two-stage differential operational amplifier obtained from AC analysis.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAmp_Transient_Analysis_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier Transient Analysis Circuit</em><br>
+  <em>Schematic of the two-stage differential operational amplifier configured for transient analysis to evaluate its time-domain response to input signals.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Two_Stage_Differential_OpAmp_Transient_Analysis_op2_Vout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Two-Stage Differential Operational Amplifier Transient Analysis – Output Voltage</em><br>
+  <em>Transient response of the two-stage differential operational amplifier showing the variation of the output voltage (V<sub>OUT</sub>) with time.</em>
+</p>
+
+
