@@ -420,3 +420,93 @@
   <em>Phase variation with frequency obtained from AC analysis</em>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMIrror(basic)_L-054_DC_analysis_op1_CKT.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 0.54 µm) DC Analysis Circuit</em><br>
+  <em>Schematic of the basic current mirror used for DC operating point analysis with transistor channel length of 0.54 µm.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMIrror(basic)_L-054_DC_analysis_op2_Iref_vs_Iout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 0.54 µm) DC Analysis – I<sub>REF</sub> vs. I<sub>OUT</sub></em><br>
+  <em>DC transfer characteristic illustrating the relationship between the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>).</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMIrror(basic)_L-054_DC_analysis_op3_Vg_point.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 0.54 µm) DC Analysis – Gate Voltage Operating Point</em><br>
+  <em>DC analysis showing the gate voltage (V<sub>G</sub>) operating point corresponding to the current mirror bias conditions.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMirror(basic)_l-2_Zin_Cal_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) Input Resistance Calculation Circuit</em><br>
+  <em>Schematic of the basic current mirror configured for input resistance (Z<sub>in</sub>) calculation with a transistor channel length of 2 µm.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMirror(basic)_L-2_Zin_Cal_op2_Vgs_point_vs_Iref.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) Input Resistance Calculation – V<sub>GS</sub> vs. I<sub>REF</sub></em><br>
+  <em>Variation of the gate-to-source voltage (V<sub>GS</sub>) with the reference current (I<sub>REF</sub>) obtained during input resistance analysis.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Current_Mirror(basic)_L-2_op1_DC_analysis_Rout_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) Output Resistance Analysis Circuit</em><br>
+  <em>Schematic of the basic current mirror configured for DC output resistance (R<sub>out</sub>) analysis with a transistor channel length of 2 µm.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/Current_Mirror(basic)_L-2_op2_DC_analysis_Iref_vs_Iout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) DC Analysis – I<sub>REF</sub> vs. I<sub>OUT</sub></em><br>
+  <em>DC transfer characteristic showing the relationship between the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>).</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMirror(basic)_l-2_Step_Current_Input_op1_ckt.png" width="1100">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) Step Current Input Test Circuit</em><br>
+  <em>Schematic of the basic current mirror configured to analyze its transient response under a step current input with a transistor channel length of 2 µm.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMirror(basic)_l-2_Step_Current_Input_op2_Iout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) Step Current Input – Output Current Response</em><br>
+  <em>Transient response of the mirrored output current (I<sub>OUT</sub>) for a step change in the reference input current.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/sch/pics/CurrentMirror(basic)_l-2_Step_Current_Input_op3_step_Iref_Iout.png" width="600">
+</p>
+
+<p align="center">
+  <em>Figure: Basic Current Mirror (L = 2 µm) Step Current Input – I<sub>REF</sub> and I<sub>OUT</sub></em><br>
+  <em>Transient comparison of the reference current (I<sub>REF</sub>) and the mirrored output current (I<sub>OUT</sub>) in response to a step current input.</em>
+</p>
+
