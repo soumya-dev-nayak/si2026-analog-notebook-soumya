@@ -207,3 +207,22 @@
   <em>Figure: CR Response – T < τ</em><br>
   <em>Time-domain response of CR network with incomplete transient behavior due to short input period.</em>
 </p>
+
+## 🎥 MEMS Microphone Test Demonstration (ADALM Lab)
+
+<p align="center">
+  <strong>MEMS Microphone Signal Capture & Response Analysis</strong>
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/m2k-labs/ADLAM%20LABS%20IMAGES/ADALM_lab_MEMS_mic_test_demonstration.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Video-Click%20to%20Play-red?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <em>
+    Demonstration of MEMS microphone response using ADALM setup.
+    Captures real-time acoustic signal variations and system response behavior.
+  </em>
+</p>
