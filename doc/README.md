@@ -156,3 +156,22 @@ When opening Xschem, using `Help -> Keys` a pop-up windows comes up with many us
 - `s` to run a simulation
 - `a & b` to add cursors to an in-circuit simulation graph
 - `f` full zoom on y- or x-axis in in-circuit simulation graph
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/doc/pics/USB-Mic-system.png" width="700">
+</p>
+
+<p align="center">
+  <em>Figure: USB Microphone System Architecture</em><br>
+  <em>Block diagram illustrating the overall USB microphone system architecture, showing the signal flow from the microphone input through the analog front-end, processing stages, and USB interface.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/soumya-dev-nayak/si2026-analog-notebook-soumya/main/doc/pics/MEMS-mic-teardown.png" width="700">
+</p>
+
+<p align="center">
+  <em>Figure: MEMS Microphone Teardown</em><br>
+  <em>Annotated teardown of a MEMS microphone illustrating its internal components, including the MEMS sensing element, ASIC, acoustic port, package structure, and electrical interconnections.</em>
+</p>
